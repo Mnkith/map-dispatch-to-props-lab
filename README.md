@@ -1,5 +1,5 @@
 # mapDispatchToProps Lab
-
+ 
 ## Objectives
 
 Use the __React Redux__ library to connect the store to the __React__
